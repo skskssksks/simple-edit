@@ -11,7 +11,7 @@ figlet    '    THBD' |lolcat
 echo "
              We Do Not HaCk to impress
                         We HaCk To Express
-   < ━━━━━━━━━━━ [★]BDh@Ckers [★] ━━━━━━━━━━━━ > " |lolcat
+   < ━━━━━━━━━━━ [★] Bielzinho [★] ━━━━━━━━━━━━ > " |Biel
 
 
 python /data/data/com.termux/files/usr/etc/wlc.py
